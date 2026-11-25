@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/LibraryApi/LibraryApi.csproj" />
+    <Project Path="src/ReservationWorker/ReservationWorker.csproj" />
+  </Folder>
+</Solution>
